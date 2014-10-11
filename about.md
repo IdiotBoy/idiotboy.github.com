@@ -1,4 +1,10 @@
-# 徐软件的博客
+---
+layout: page
+title: 自我介绍
+header: Posts By Tag
+group: navigation
+---
+{% include JB/setup %}
 
 ### 使命
 
